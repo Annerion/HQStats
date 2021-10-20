@@ -54,7 +54,7 @@ class Round:
 
 
 output= open("HQdata.csv",'a')
-characters= ["Issabella","Marie","Father Zera","Kalkstein","Lazlo","Gedeon","Barabash","Jacek"]
+characters= ["Isabella","Marie","Father Zera","Kalkstein","Lazlo","Gedeon","Barabash","Jacek"]
 name= input("Enter the name of the tournament:\n")
 patch= input("Enter the current patch number of the game:\n")
 tournament= Tournament(patch,name)
