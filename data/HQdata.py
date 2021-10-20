@@ -13,8 +13,8 @@ class Tournament:
 		self.matches.append(match)
 	def print(self,output):
 		#output.write(name+" "+str(self.date)+" "+str(self.patch)+"\n")
-		output.write(str(self.name)+","+str(self.date)+","+str(self.patch)+"\n")
 		for match in self.matches:
+			output.write(str(self.name)+","+str(self.date)+","+str(self.patch))
 			match.print(output)
 
 class Match:
@@ -26,8 +26,8 @@ class Match:
 		self.rounds.append(round)
 	def print(self,output):
 		#output.write("\t"+str(self.level)+"\n")
-		output.write(",,,"+str(self.level)+"\n")
 		for round in self.rounds:
+			output.write(","+str(self.level))
 			round.print(output)
 
 class Round:
@@ -49,7 +49,7 @@ class Round:
 		self.doubles= doubles
 	def print(self,output):
 		#output.write("\t\t"+str(self.playerL)+"\t"+str(self.characterL)+"\t"+str(self.scoreL)+"\t"+str(self.playerR)+"\t"+str(self.scoreR)+"\t"+str(self.characterR)+"\n")
-		output.write(",,,,"+str(self.playerL)+","+str(self.characterL)+","+str(self.scoreL)+","+str(self.characterR)+","+str(self.scoreR)+","+str(self.playerR)+","+str(self.doubles)+"\n")
+		output.write(","+str(self.playerL)+","+str(self.characterL)+","+str(self.scoreL)+","+str(self.characterR)+","+str(self.scoreR)+","+str(self.playerR)+","+str(self.doubles)+"\n")
 
 
 
