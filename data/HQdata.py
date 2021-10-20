@@ -38,16 +38,18 @@ class Round:
 	characters= ["Isabella","Marie","Father Zera","Kalkstein","Lazlo","Gedeon","Barabash","Jacek"]
 	characterL=characters[0]
 	characterR=characters[0]
-	def __init__(self,playerL,playerR,scoreL,scoreR,characterL,characterR):
+	doubles=0;
+	def __init__(self,playerL,playerR,scoreL,scoreR,characterL,characterR,doubles):
 		self.playerL= playerL
 		self.playerR= playerR
 		self.scoreL= scoreL
 		self.scoreR= scoreR
 		self.characterL= characterL
 		self.characterR= characterR
+		self.doubles= doubles
 	def print(self,output):
 		#output.write("\t\t"+str(self.playerL)+"\t"+str(self.characterL)+"\t"+str(self.scoreL)+"\t"+str(self.playerR)+"\t"+str(self.scoreR)+"\t"+str(self.characterR)+"\n")
-		output.write(",,,,"+str(self.playerL)+","+str(self.characterL)+","+str(self.scoreL)+","+str(self.playerR)+","+str(self.scoreR)+","+str(self.characterR)+"\n")
+		output.write(",,,,"+str(self.playerL)+","+str(self.characterL)+","+str(self.scoreL)+","+str(self.characterR)+","+str(self.scoreR)+","+str(self.playerR)+","+str(self.doubles)+"\n")
 
 
 
@@ -70,7 +72,8 @@ while unwonT:
 		scoreR= input("Enter the number of flags earned by "+playerR+":\n")
 		characterL=characters[int(input("For "+playerL+" enter 0 for izzy, 1 for marie, 2 for zera, 3 for kalk, 4 for lazlo, 5 for gedeon, 6 for barabash, 7 for jacek:\n"))]
 		characterR=characters[int(input("For "+playerR+" enter 0 for izzy, 1 for marie, 2 for zera, 3 for kalk, 4 for lazlo, 5 for gedeon, 6 for barabash, 7 for jacek:\n"))]
-		round= Round(playerL,playerR,scoreL,scoreR,characterL,characterR)
+		doubles= input("Enter the number of double hits during the match:\n")
+		round= Round(playerL,playerR,scoreL,scoreR,characterL,characterR,doubles)
 		match.addRound(round)
 		won=0
 		while won!="Y" and won!="n":
