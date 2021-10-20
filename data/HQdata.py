@@ -13,7 +13,7 @@ class Tournament:
 		self.matches.append(match)
 	def print(self,output):
 		#output.write(name+" "+str(self.date)+" "+str(self.patch)+"\n")
-		output.write(name+","+str(self.date)+","+str(self.patch)+"\n")
+		output.write(str(self.name)+","+str(self.date)+","+str(self.patch)+"\n")
 		for match in self.matches:
 			match.print(output)
 
