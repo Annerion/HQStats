@@ -36,11 +36,6 @@
     <script src="js/csv_to_html_table.js"></script>
 
     <script>
-        function format_link(link) {
-            if (link)
-                return "<a href='" + link + "' target='_blank'>" + link + "</a>";
-            else return "";
-        }
 
         CsvToHtmlTable.init({
             csv_path: "data/HQdata.csv",
@@ -53,9 +48,6 @@
             datatables_options: {
                 paging: false
             },
-            custom_formatting: [
-                [4, format_link]
-            ]
         });
     </script>
 </body>
