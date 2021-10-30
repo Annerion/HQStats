@@ -49,7 +49,7 @@ class Round:
 		self.doubles= doubles
 	def print(self,string,output):
 		#output.write("\t\t"+str(self.playerL)+"\t"+str(self.characterL)+"\t"+str(self.scoreL)+"\t"+str(self.playerR)+"\t"+str(self.scoreR)+"\t"+str(self.characterR)+"\n")
-		string+=(","+str(self.playerL)+","+str(self.characterL)+","+str(self.scoreL)+","+str(self.characterR)+","+str(self.scoreR)+","+str(self.playerR)+","+str(self.doubles)+"\n")
+		string+=(","+str(self.playerL)+","+str(self.characterL)+","+str(self.scoreL)+","+str(self.scoreR)+","+str(self.characterR)+","+str(self.playerR)+","+str(self.doubles)+"\n")
 		output.write(string)
 
 

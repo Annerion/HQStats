@@ -1,32 +1,32 @@
-Tournament Name,Tournament Date,Game Patch,"Tournament Round (decreasing, finals are 0)",Left Side Player,Left Side Player Character,Flags Earned by Left Side Player,Right Side Player Character,Right Side Flags Earned,Right Side Player,Doubles During Round
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,morozoff_buriki,Lazlo,4,Isabella,5,Warden,3
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,morozoff_buriki,Lazlo,5,Isabella,4,Warden,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,morozoff_buriki,Lazlo,1,Jacek,5,Warden,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,Favkis,Jacek,5,Gedeon,4,fjaoief,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,Favkis,Jacek,5,Father Zera,4,fjaoief,1
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,paraco_Vtuber,Marie,5,Barabash,3,aegis,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,paraco_Vtuber,Marie,5,Barabash,3,aegis,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,Canadi,Gedeon,5,Barabash,2,Stupidaho,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,Canadi,Gedeon,3,Barabash,5,Stupidaho,1
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,Canadi,Gedeon,3,Barabash,5,Stupidaho,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,picado,Marie,5,Father Zera,1,AlfieOmega,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,picado,Marie,0,Father Zera,5,AlfieOmega,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,picado,Kalkstein,5,Father Zera,2,AlfieOmega,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,keksoid,Father Zera,5,Isabella,4,Warden,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,keksoid,Father Zera,5,Kalkstein,4,Warden,2
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,Favkis,Jacek,5,Marie,3,paraco_Vtuber,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,Favkis,Jacek,0,Marie,5,paraco_Vtuber,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,Favkis,Jacek,5,Marie,0,paraco_Vtuber,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,Haracternick,Jacek,4,Marie,5,picado,1
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,Haracternick,Kalkstein,3,Marie,5,picado,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,OnAQuest,Jacek,5,Barabash,2,Stupidaho,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,OnAQuest,Jacek,5,Barabash,2,Stupidaho,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,1,keksoid,Jacek,5,Jacek,4,Favkis,2
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,1,keksoid,Jacek,0,Jacek,5,Favkis,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,1,keksoid,Lazlo,0,Jacek,5,Favkis,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,1,OnAQuest,Barabash,5,Marie,1,picado,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,1,OnAQuest,Barabash,1,Kalkstein,5,picado,1
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,1,OnAQuest,Jacek,5,Kalkstein,3,picado,1
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,0,Favkis,Jacek,3,Jacek,5,OnAQuest,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,0,Favkis,Jacek,5,Jacek,3,OnAQuest,0
-3rd Pacific Tournament,10/30/2021,2021.10.28.0,0,Favkis,Jacek,4,Jacek,5,OnAQuest,0
+Tournament Name,Tournament Date,Game Patch,"Tournament Round (decreasing, finals are 0)",Left Side Player,Left Side Player Character,Flags Earned by Left Side Player,Right Side Flags Earned,Right Side Player Character,Right Side Player,Doubles During Round
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,morozoff_buriki,Lazlo,4,5,Isabella,Warden,3
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,morozoff_buriki,Lazlo,5,4,Isabella,Warden,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,morozoff_buriki,Lazlo,1,5,Jacek,Warden,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,Favkis,Jacek,5,4,Gedeon,fjaoief,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,Favkis,Jacek,5,4,Father Zera,fjaoief,1
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,paraco_Vtuber,Marie,5,3,Barabash,aegis,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,paraco_Vtuber,Marie,5,3,Barabash,aegis,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,Canadi,Gedeon,5,2,Barabash,Stupidaho,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,Canadi,Gedeon,3,5,Barabash,Stupidaho,1
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,Canadi,Gedeon,3,5,Barabash,Stupidaho,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,picado,Marie,5,1,Father Zera,AlfieOmega,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,picado,Marie,0,5,Father Zera,AlfieOmega,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,3,picado,Kalkstein,5,2,Father Zera,AlfieOmega,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,keksoid,Father Zera,5,4,Isabella,Warden,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,keksoid,Father Zera,5,4,Kalkstein,Warden,2
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,Favkis,Jacek,5,3,Marie,paraco_Vtuber,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,Favkis,Jacek,0,5,Marie,paraco_Vtuber,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,Favkis,Jacek,5,0,Marie,paraco_Vtuber,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,Haracternick,Jacek,4,5,Marie,picado,1
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,Haracternick,Kalkstein,3,5,Marie,picado,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,OnAQuest,Jacek,5,2,Barabash,Stupidaho,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,2,OnAQuest,Jacek,5,2,Barabash,Stupidaho,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,1,keksoid,Jacek,5,4,Jacek,Favkis,2
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,1,keksoid,Jacek,0,5,Jacek,Favkis,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,1,keksoid,Lazlo,0,5,Jacek,Favkis,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,1,OnAQuest,Barabash,5,1,Marie,picado,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,1,OnAQuest,Barabash,1,5,Kalkstein,picado,1
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,1,OnAQuest,Jacek,5,3,Kalkstein,picado,1
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,0,Favkis,Jacek,3,5,Jacek,OnAQuest,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,0,Favkis,Jacek,5,3,Jacek,OnAQuest,0
+3rd Pacific Tournament,10/30/2021,2021.10.28.0,0,Favkis,Jacek,4,5,Jacek,OnAQuest,0
